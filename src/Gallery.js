@@ -9,7 +9,7 @@ class Gallery extends Component {
   }
   render () {
     return <div className='gallery one' onClick={this.navigateToAlbum}>
-      <a href=''><img className='imageGallery' src='' alt='cat gallery' /></a>
+      <a href=''><img className='imageGallery' src={this.props.album.url} alt='cat gallery' /></a>
       <Description name={this.props.album.name} info={this.props.album.description}/>
     </div>
   }

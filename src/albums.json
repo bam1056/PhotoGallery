@@ -1,0 +1,226 @@
+{
+  "album": [
+    {
+      "name": "Album 1",
+      "description": "This is about cats",
+      "url": "http://2.bp.blogspot.com/-pATX0YgNSFs/VP-82AQKcuI/AAAAAAAALSU/Vet9e7Qsjjw/s1600/Cat-hd-wallpapers.jpg",
+      "photo": [
+        {
+          "name": "Photo 1",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 2",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 3",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 4",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 5",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 6",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Album 2",
+      "description": "This is about cats",
+      "url": "http://dreamatico.com/data_images/dog/dog-6.jpg",
+      "photo": [
+        {
+          "name": "Photo 1",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 2",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 3",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 4",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 5",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 6",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Album 3",
+      "description": "This is about cats",
+      "url": "http://2.bp.blogspot.com/-pATX0YgNSFs/VP-82AQKcuI/AAAAAAAALSU/Vet9e7Qsjjw/s1600/Cat-hd-wallpapers.jpg",
+      "photo": [
+        {
+          "name": "Photo 1",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 2",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 3",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 4",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 5",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 6",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Album 4",
+      "description": "This is about cats",
+      "url": "http://2.bp.blogspot.com/-pATX0YgNSFs/VP-82AQKcuI/AAAAAAAALSU/Vet9e7Qsjjw/s1600/Cat-hd-wallpapers.jpg",
+      "photo": [
+        {
+          "name": "Photo 1",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 2",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 3",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 4",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 5",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 6",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Album 5",
+      "description": "This is about cats",
+      "url": "http://2.bp.blogspot.com/-pATX0YgNSFs/VP-82AQKcuI/AAAAAAAALSU/Vet9e7Qsjjw/s1600/Cat-hd-wallpapers.jpg",
+      "photo": [
+        {
+          "name": "Photo 1",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 2",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 3",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 4",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 5",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 6",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Album 6",
+      "description": "This is about cats",
+      "url": "http://2.bp.blogspot.com/-pATX0YgNSFs/VP-82AQKcuI/AAAAAAAALSU/Vet9e7Qsjjw/s1600/Cat-hd-wallpapers.jpg",
+      "photo": [
+        {
+          "name": "Photo 1",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 2",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 3",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 4",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 5",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        },
+        {
+          "name": "Photo 6",
+          "description": "This is a photo of a dog",
+          "url": "http://dreamatico.com/data_images/dog/dog-6.jpg"
+        }
+      ]
+    }
+  ]
+}

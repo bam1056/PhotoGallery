@@ -1,21 +1,26 @@
 import React, { Component } from 'react'
 import './main.css'
 import Gallery from './Gallery'
+import info from './albums.json'
 
 class Home extends Component {
   constructor () {
+    console.log(info.album)
+
     super()
     this.state = {
-      album: [
-        {name: 'Album 1', description:' This is about cats'},
-        {name: 'Album 2', description: 'This is about bats'},
-        {name: 'Album 3', description: 'This is about rats'},
-        {name: 'Album 4', description: 'This is about mats'},
-        {name: 'Album 5', description: 'This is about cats'},
-        {name: 'Album 6', description: 'This is about thats'}
-      ]
+      album: info.album
     }
   }
+    //   info.album: [
+    //     {name: 'Album 1', description:' This is about cats'},
+    //     {name: 'Album 2', description: 'This is about bats'},
+    //     {name: 'Album 3', description: 'This is about rats'},
+    //     {name: 'Album 4', description: 'This is about mats'},
+    //     {name: 'Album 5', description: 'This is about cats'},
+    //     {name: 'Album 6', description: 'This is about thats'}
+    //   ]
+    // }
   render () {
     return <div className='Home'>
       <header>
