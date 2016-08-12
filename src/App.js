@@ -1,21 +1,45 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react'
+import './App.css'
+import Home from './Home'
+import Album from './Album'
+import Footer from './Footer'
+import Photo from './Photo'
 
 class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React</h2>
-        </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
-    );
+  constructor () {
+    super()
+    this.state = {
+      currentScreen: 'home'
+    }
   }
-}
+    navigateTo = (screen) => {
+      this.setState({
+        currentScreen: screen
+      })
+    }
 
-export default App;
+    // goHome = () => {
+    //   this.navigateTo('home')
+    // }
+
+    render () {
+      let screen
+      switch(this.state.currentScreen) {
+        case 'home': screen = <Home navigate={this.navigateTo}/>
+          break;
+        case 'album': screen = <Album />
+          break;
+        case 'photo': screen = <Photo />
+          break;
+        default: screen = <Home />
+      }
+
+      return <div className="App">
+        <main>
+          {screen}
+        </main>
+        <Footer />
+      </div>
+    }
+  }
+export default App
